@@ -1,0 +1,22 @@
+clip,fps,event,leave_frame,return_frame,category,scored,notes
+video1.avi,30,1,1320,,positive_clean,yes,"Male carrying a black backpack enters from the right, places the bag near the center of the hallway, walks out of frame "
+video2.avi,30,1,2250,,positive_clean,yes,"The scene begins with normal pedestrian activity. At approximately 1:00, an adult male carrying a brown bag enters the f"
+video3.avi,30,1,1980,2490,positive_with_return,yes,"The clip begins with normal pedestrian activity and no unattended objects. At approximately 0:52, an adult male wearing "
+video4.avi,30,1,450,,positive_clean,yes,"At approximately 0:11, a male wearing a brown jacket enters the frame carrying a dark bag. Around 0:15, he places the ba"
+video5.avi,30,1,2100,,positive_clean,yes,"At approximately 0:04, an individual carrying a white backpack enters the lobby and stands near the center of the scene,"
+video6.avi,30,1,5310,6210,positive_with_return,yes,"At approximately 2:57, an individual enters the frame from the left carrying a backpack. The individual places the backp"
+video7.avi,30,1,3810,,positive_clean,yes,"At approximately 1:51, a student enters the classroom from the bottom of the frame carrying a purple backpack. The stude"
+video8.avi,30,1,3720,,positive_clean,yes,"At approximately 0:57, the classroom lights turn off. An individual then enters the frame and walks to the middle table "
+video9.avi,30,1,930,,positive_clean,yes,"At approximately 0:12, an individual enters the classroom carrying a purple backpack. The individual briefly looks outsi"
+video10.avi,30,1,1410,,positive_clean,yes,"At approximately 0:32, an individual enters the classroom carrying a backpack and walks to the middle-left table. The in"
+video11.avi,30,,,,EXCLUDED_pre_abandoned,no,The clip shows a busy airport concourse with numerous pedestrians walking in different directions. An orange bag/object 
+20250304_1454_Airport Suitcase Mystery_simple_compose_01jngq05h3ehab3jp48xhc8mhz.mp4,30,0,,,negative_ai,yes,The clip shows individuals walking through an airport while carrying their own luggage. At no point is a bag or suitcase
+20250304_1515_Traveler Abandons Suitcase_simple_compose_01jngr6an0ekzs8z3qhf6xff0w.mp4,30,0,,,negative_ai,yes,The clip shows a traveler walking through an airport terminal while pulling a silver rolling suitcase and carrying a bla
+20250304_1516_Traveler Abandons Suitcase_simple_compose_01jngr6an6e5st5ztg83p60krk.mp4,30,0,,,negative_ai,yes,The clip shows a busy airport terminal with multiple travelers walking through the monitored area while pulling rolling 
+Hailuo_Video_A person walks into the frame _358438445857189894.mp4,25,0,,,negative_ai,yes,The image shows an airport terminal with multiple travelers carrying luggage. A man in the foreground is walking while h
+Hailuo_Video_Create a CCTV footage of peopl_398561169233838086.mp4,25,0,,,negative_ai,yes,The clip shows a wide CCTV view of an airport terminal with normal pedestrian traffic. Individuals walk through the moni
+Hailuo_Video_Create a CCTV footage of peopl_398579532735619073.mp4,25,0,,,negative_ai,yes,"The clip shows a busy airport terminal with numerous travelers walking in different directions, many carrying or pulling"
+walking_by_abanonded_luggage.mp4,30,,,,EXCLUDED_pre_abandoned,no,The clip shows a large airport terminal with an unattended pink suitcase already present in the monitored area at the be
+walking_by_abanonded_luggage22.mp4,30,,,,EXCLUDED_pre_abandoned,no,The clip shows an airport concourse with a pink suitcase already present in the monitored area when the video begins. Th
+AVSSS07_EASY.mpg,30,1,2870,,positive_avss_easy,yes,AVSS2007 Easy; official ViPER GT; bag 88x155px
+AVSSS07_MEDIUM.mpg,30,1,2310,,positive_avss_medium,yes,AVSS2007 Medium; official ViPER GT; bag 53x31px
