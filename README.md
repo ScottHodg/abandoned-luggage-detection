@@ -1,4 +1,4 @@
-# Real-Time Abandoned-Luggage Detection — Code \& Dataset Package
+# Real-Time Abandoned-Luggage Detection  Code \& Dataset Package
 
 MBAI 5600G — Applied Integrative Analytics Capstone Project
 Group 3: Ali Abughamja, Scott Hodgins
